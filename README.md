@@ -1,4 +1,4 @@
-# Gravitas.ai Assignment
+# Gravitas.ai Assessment
 
 
 ## Tasks Completed:
